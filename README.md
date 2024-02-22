@@ -1,2 +1,11 @@
 # Airline-Data-Ingestion-Project
-Creating ETL pipeline to automate data ingestion process of airline
+Hay there! This is the end to end Data Engineering Project. Lets know it in detail. 
+
+# Project Overview
+In this project we have automated the ETL process of ingesting daily airline data from S3 and converting it to the relevent schema for furthur analysis in redshift.
+
+AWS Services:
+
+
+
+
